@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Rizz
 
-<!--
-**iam-rizz/iam-rizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Newbie Developer & IT Support | Cloud & Code Enthusiast**
 
-Here are some ideas to get you started:
+I'm a junior IT support professional and aspiring developer who’s enthusiastic about technology, automation, and creative problem-solving. Always excited to learn something new, I enjoy experimenting with cloud computing and writing code to make life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?logo=icloud)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+---
+
+## 🌐 Featured Project
+
+[![turuaja.com](https://img.shields.io/badge/-turuaja.com-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://turuaja.com)
+
+---
+
+## 📈 GitHub Stats
+
+![iam-rizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-rizz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rizz&layout=compact&theme=radical)
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 💻 Coding and building new things
+- ☁️ Exploring the world of cloud computing
+
+---
+
+## 🧑‍💻 Currently Learning
+
+- Cloud automation & DevOps tools
+- Advanced backend with Laravel & Node.js
+
+---
+
+## ✨ Fun Fact
+
+> “Always learning, always building.”
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iam-rizz&color=brightgreen)
