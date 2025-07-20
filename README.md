@@ -25,9 +25,8 @@ I'm a junior IT support professional and aspiring developer who’s enthusiastic
 
 ## 📈 GitHub Stats
 
-#![iam-rizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-rizz&show_icons=true&theme=radical)
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rizz&layout=compact&theme=radical)
-[![](https://raw.githubusercontent.com/iam-rizz/iam-rizz/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![iam-rizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-rizz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rizz&layout=compact&theme=radical)
 
 ---
 
